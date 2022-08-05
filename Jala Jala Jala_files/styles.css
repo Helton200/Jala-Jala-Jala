@@ -1,0 +1,51 @@
+body h1 {
+    font-family: 'Permanent Marker', cursive;
+    text-align: left;
+    color: #212121;
+    font-size: 30px;
+
+}
+
+body {
+    background-color: #388E3C;
+}
+
+body img {
+    width: 350px;
+}
+
+.informacion p {
+    text-align: left;
+    color: #212121;
+    font-family: 'Permanent Marker', cursive;
+    margin: 5px;
+    font-size: 20px;
+
+}
+
+.informacion p .infosec {
+    color: #8AFF29;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: 15px;
+}
+
+h2 {
+    font-family: 'Libre Baskerville', serif;
+    text-align: left;
+    font-size: 25px;
+}
+
+.letra p {
+    font-family: 'Frijole', cursive;
+    text-align: left;
+    font-size: 15px;
+    margin: 15px;
+}
+
+.letra .estribillo {
+    font-family: 'Creepster', cursive;
+    color: #B40000;
+    text-align: left;
+    font-size: 30px;
+    margin: 5px;
+}
